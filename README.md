@@ -17,7 +17,7 @@ Building Tublian
 
 ### <a href="https://www.linkedin.com/in/nraychaudhuri/">linkedin</a> | <a href="https://www.tublian.com/profile/nraychaudhuri">journal</a> | <a href="https://www.github.com/nraychaudhuri">github</a>
 
-<img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri">
+<a href="https://www.tublian.com/profile/nraychaudhuri"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri"></a>
 
 ## <img src="https://www.tublian.com/static/media/new-logo.0852124c.svg" width="45" style="vertical-align: middle"/> Few things about me
 
