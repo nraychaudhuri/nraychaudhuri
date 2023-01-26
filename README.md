@@ -19,7 +19,7 @@ Helping emerging developers to standout
 
 <a href="https://www.tublian.com/profile/nraychaudhuri"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri"></a>
 
-## <img src="https://www.tublian.com/static/media/new-logo.0852124c.svg" width="45"/> Few things about me
+## Few things about me
 
 
 <div>
