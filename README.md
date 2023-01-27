@@ -17,7 +17,7 @@ Helping emerging developers to standout
 
 ### <a href="https://www.linkedin.com/in/nraychaudhuri">linkedin</a> | <a href="https://www.tublian.com/profile/nraychaudhuri">journal</a> | <a href="https://www.github.com/nraychaudhuri">github</a> | <a href="https://www.twitter.com/nraychaudhuri">twitter</a> | <a href="https://devlog.tublian.com/rss.xml">blog</a> | <a href="https://stackoverflow.com/users/726317/nilanjan">stackoverflow</a>
 
-<a href="https://www.tublian.com/profile/nraychaudhuri"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=without_score"></a>
+<a href="https://www.tublian.com/profile/nraychaudhuri"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=with_score"></a>
 
 ## 👇 Few things about me
 
