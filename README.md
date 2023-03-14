@@ -4,7 +4,11 @@
 
 ### Bio:
 
-Building Tublian The lack of emerging developers within the IT industry has always been a recurrent issue and one that is rarely addressed. Most big companies do not opt to hire candidates with little to no experience. This means that they are willing to take a risk by hiring unfit candidates for their company rather than the many phenomenal developers that are in plain sight. It is common practice for companies, irrespective of their size, to prioritise candidates that can add value to their company. Tublian provides a streamlined solution for companies to access a caliber of developers with the talent and dedication they are looking for in order to improve their value efficiently. <a href="https://www.tublian.com/profile/nraychaudhuri?ss=true"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=without_score"></a>
+Building Tublian The lack of emerging developers within the IT industry has always been a recurrent issue and one that is rarely addressed. Most big companies do not opt to hire candidates with little to no experience. This means that they are willing to take a risk by hiring unfit candidates for their company rather than the many phenomenal developers that are in plain sight. It is common practice for companies, irrespective of their size, to prioritise candidates that can add value to their company. Tublian provides a streamlined solution for companies to access a caliber of developers with the talent and dedication they are looking for in order to improve their value efficiently. 
+
+### I got Streetcred:
+
+<a href="https://www.tublian.com/profile/nraychaudhuri?ss=true"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=without_score"></a>
             
 
 ### My Stack:
