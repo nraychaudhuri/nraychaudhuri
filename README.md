@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Building Tublian
+Building Tublian <a href="https://www.tublian.com/profile/nraychaudhuri?ss=true"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=without_score"></a>
             
 
 ### My Stack:
@@ -19,7 +19,6 @@ Building Tublian
 
 ### <a href="https://www.tublian.com/profile/nraychaudhuri">journal</a> | <a href="https://www.github.com/nraychaudhuri">github</a>
 
-<a href="https://www.tublian.com/profile/nraychaudhuri?ss=true"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=without_score"></a>
 
 ## 👇 Few things about me
 
