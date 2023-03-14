@@ -6,6 +6,10 @@
 <td width="70%">
 
 
+### Bio:
+
+Building Tublian
+            
 
 ### My Stack:
 
