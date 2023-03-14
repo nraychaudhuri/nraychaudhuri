@@ -1,9 +1,9 @@
 
 # Hello there! 👋
 
-<table cellpadding="0">
+<table>
 <tr>
-<td width="70%">
+<td width="60%" style="border:none">
 
 
 ### Bio:
@@ -20,7 +20,7 @@ Building Tublian
 ### 
 
 </td>
-<td width="50%">
+<td width="40%" style="border:none">
 
 <a href="https://www.tublian.com/profile/nraychaudhuri?ss=true"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=with_score"></a>
 
