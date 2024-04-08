@@ -9,13 +9,13 @@ Redefine how software is built.
 
 ### Streetcred:
 
-<a href="https://www.tublian.com/profile/nraychaudhuri?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=with_score"></a>
+<a href="https://www.tublian.com/profile/nraychaudhuri?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=with_score"></a>
 
 ### My Stack:
 
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/FP"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Scala"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Django"/>
+### <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/FP"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Scala"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Django"/>
 
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/>
+### <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/>
 
 ### 
 
@@ -58,7 +58,7 @@ Redefine how software is built.
 <div id="pinned-card">
 
 ### <a href="https://www.tublian.com/" target="_blank">Tublian.com</a>
-*Web site for software developers*
+*Website for software developers*
 
 <a href="https://www.tublian.com/" target="_blank">
       <img src="https://www.tublian.com/og-image-v2.jpg" width="400px">
