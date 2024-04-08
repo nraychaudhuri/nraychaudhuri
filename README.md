@@ -58,7 +58,7 @@ Redefine how software is built.
 <div id="pinned-card">
 
 ### <a href="https://www.tublian.com/" target="_blank">Tublian.com</a>
-*Website for software developers*
+*Web site for software developers*
 
 <a href="https://www.tublian.com/" target="_blank">
       <img src="https://www.tublian.com/og-image-v2.jpg" width="400px">
