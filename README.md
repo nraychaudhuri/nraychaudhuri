@@ -7,9 +7,12 @@
 Redefine how software is built.
             
 
-### Streetcred:
-
-<a href="https://www.tublian.com/profile/nraychaudhuri?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=with_score"></a>
+<h1 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h1>
+  <p align="center">
+    <a href="https://tublian.com/profile/nraychaudhuri">
+      <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/nraychaudhuri?type=with_score" alt="Streetcred">
+    </a>
+  </p>
 
 ### My Stack:
 
